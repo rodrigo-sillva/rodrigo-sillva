@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hi, I'm Rodrigo! I'm so glad to meet ya.<br>🔭 I’m currently I'm being an English teacher and talking a little bit about web development.<br>🌱 I’m currently learning Java and C#, I'm also honing my skills in HTML and, CSS, and JavaScript.<br>⚡ Fun fact 'bout me: I'm a fun person and I end up make the work or study I turn the environment I'm participating in into something fun.
+✨ Hi, I'm Rodrigo! I'm so glad to meet ya.<br>🔭 I’m currently I'm being an English teacher and talking a little bit about web development.<br>🌱 I’m currently learning Java and C#, I'm also honing my skills in HTML and, CSS, and JavaScript.<br>⚡ Fun fact 'bout me: I'm a fun person and I ended up doing work or studying making it a relaxed and fun environment.
 
 
 ## 🌐 Socials:
