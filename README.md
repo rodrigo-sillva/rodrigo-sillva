@@ -2,9 +2,6 @@
 ✨ Hi, I'm Rodrigo! I'm so glad to meet ya.<br>🔭 I’m currently I'm being an English teacher and talking a little bit about web development.<br>🌱 I’m currently learning Java and C#, I'm also honing my skills in HTML and, CSS, and JavaScript.<br>⚡ Fun fact 'bout me: I'm a fun person and I ended up doing work or studying making it a relaxed and fun environment.
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigo.developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-da-cruz-silva/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rodrigo.developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rodrigo_coding) 
 
